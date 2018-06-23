@@ -4,5 +4,8 @@ KiCad part library for Maxim's high efficiency, synchronous, step-down DC-DC con
 ## Library part symbol
 ![MAX17632 part image](https://github.com/mkudlacek/MAX17632/blob/master/max17632.png)
 
+## Typical Application Circuit — Fixed 5V Output
+![5V application circuit image](https://github.com/mkudlacek/MAX17632/blob/master/5v_circuit.png)
+
 ## Datasheet
 [MAX17632 datasheet](https://github.com/mkudlacek/MAX17632/blob/master/MAX17632-1287024.pdf)
